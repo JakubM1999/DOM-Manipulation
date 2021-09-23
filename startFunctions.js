@@ -9,8 +9,11 @@ window.onload = () => {
 
 }
 
+
+
 /* Button Click */
 const buttonClick = document.querySelector(".button2")
+const buttonTextChange = document.querySelector(".button2_under")
 
 const clickFunction = (e) => {
     const clickedElement = e.target;
@@ -18,7 +21,10 @@ const clickFunction = (e) => {
     clickedElement.style.backgroundColor = "white";
     clickedElement.style.borderRadius = "10px"
     clickedElement.style.color = "#202020"
+    buttonTextChange.text ="comming soon!"
 }
 
 buttonClick.addEventListener("click", clickFunction);
+buttonTextChange.addEventListener("click", clickFunction);
+
 

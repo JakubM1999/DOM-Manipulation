@@ -7,8 +7,8 @@
 
 <p>when it came to this game it was only thing that was from tutorial video so I knew that I didn't know how to do it from scratch so I followed a tutorial but it wasn't just copy and paste I wrote the code myself and then I had many problem, bugs and errors that I had to solve myself because there wasn't any information on the internet about these specific things also I commented and explained the code best I could.</p>
 
-<p> I learned alot by doing this project this way and I know much more about JavaScript and DOM manipulation especially how fun this is!
-P.s besides the video game all of the code was created by me.</p>
+<p> I learned alot by doing this project this way and I know much more about JavaScript and DOM manipulation especially how fun this is!</p>
+<p>P.s apart from the video game all of the code was created by me.</p>
 
 <p>Hope You like it and let me know what was your score!</p>
 

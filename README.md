@@ -1,4 +1,4 @@
-<h1>Module3-DOM-Manipulation</h1>
+<h1>DOM-Manipulation</h1>
 <h2>LINK: https://jakubm1999.github.io/Module3-DOM-Manipulation/Start.html</h2>
 
 <p>For this project I did one of the ideas in theme idea that I very much liked and that was: Pong video game! so I knew that I wanned to do it right away because I am a video game enthusiast so that was the perfect thing for me.</p>
